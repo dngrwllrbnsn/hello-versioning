@@ -1,1 +1,2 @@
-third file
+third file x
+new line in third file
